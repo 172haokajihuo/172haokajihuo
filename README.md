@@ -1,103 +1,82 @@
-# 172号卡代理激活小助手
+# Crazy Cattle 3D
 
-一个专为172号卡代理商开发的自动化用户激活管理工具，帮助代理商高效处理因长时间未登录而被冻结的下级代理账户。
+![Crazy Cattle 3D](https://crazy-cattle-3d.com/images/crazycattle3d.webp)
 
-## 🌐 在线访问
+## The Ultimate Battle Royale Experience with Explosive Sheep
 
-访问地址：[https://act.ka172.cn](https://act.ka172.cn)
+Welcome to **Crazy Cattle 3D**, an exhilarating battle royale game where you control explosive sheep in a chaotic survival challenge across three distinct global environments. Master physics-based movement, outwit your opponents, and be the last sheep standing!
 
-![172号卡代理激活小助手](https://ka172.cn/images/blog/172%E5%8F%B7%E5%8D%A1%E4%BB%A3%E7%90%86%E6%BF%80%E6%B4%BB%E7%B3%BB%E7%BB%9F.png)
+🔗 **[Play Crazy Cattle 3D Now!](https://crazy-cattle-3d.com)**
 
-## 🚀 核心功能
+## 🎮 Game Features
 
-### 批量激活
-- 自动扫描指定页面范围内的用户
-- 智能识别过期需要激活的用户
-- 一键批量激活，无需手动逐个处理
+- **Revolutionary Physics System**: Crazy Cattle 3D features a groundbreaking physics engine specifically designed for authentic sheep movement. Every animal responds realistically to environmental factors, creating unpredictable and hilarious moments.
 
-### 智能筛选
-- 自动跳过已注销的用户账户
-- 只处理真正需要激活的过期用户
-- 显示用户最后登录时间信息
+- **Explosive Mechanics**: Time your collisions perfectly to send opponents flying off the map or use momentum to execute evasive maneuvers when threatened.
 
-### 实时监控
-- 详细的操作日志记录
-- 实时显示激活进度和结果
-- 支持日志分页查看和管理
+- **Three Unique Environments**: Battle across Ireland, Iceland, and New Zealand, each with distinctive terrain that fundamentally changes gameplay strategy:
+  - **Ireland**: Rolling hills provide natural ramps for gaining momentum and executing spectacular aerial attacks
+  - **Iceland**: Volcanic landscape introduces hazardous zones that can be used strategically
+  - **New Zealand**: Mountainous terrain offers vertical gameplay with high-risk, high-reward vantage points
 
-### 数据导出
-- 导出激活结果为Excel格式
-- 包含用户状态和登录时间信息
-- 便于后续分析和备案
+- **Skill-Based Advancement**: Success in Crazy Cattle 3D comes from genuine player improvement, not unlocks or upgrades
 
-## 🛡️ 安全特性
+- **Multi-Platform Support**: Play on Windows, Mac, and Linux systems
 
-### 权限控制
-- 仅限官网一级代理使用
-- 自动验证用户权限身份
-- 特殊管理员账户支持
+## 🕹️ Controls
 
-### 安全保障
-- 使用官方API接口操作
-- 不存储用户密码信息
-- 所有操作完全透明可控
+### Desktop Controls
+- **Movement**: Arrow keys or WASD
+- **Charge**: Hold left click or spacebar
+- **Jump**: Press E key
+- **Special Moves**: Press Q for special attacks
 
-### 请求保护
-- 智能延迟控制，保护服务器
-- 页面间延迟5秒，请求间延迟2秒
-- 避免频繁请求被系统限制
+### Mobile Controls
+- **Movement**: Touch and drag to move
+- **Charge**: Tap and hold the charge button
+- **Jump**: Tap the jump button
+- **Special Moves**: Tap the special move button
 
-## 🎯 使用场景
+## 💡 Advanced Strategies
 
-### 代理管理
-- 大批量下级代理账户管理
-- 定期清理冻结账户
-- 提升代理团队活跃度
+- Master sheep locomotion - build momentum downhill to gain speed
+- Perfect collision timing - use it to escape danger or catch opponents off guard
+- Develop spatial awareness - always know where other sheep are in Crazy Cattle 3D
+- Create strategic collisions - plan your attacks for maximum impact
+- Learn to read the arena - identify safe zones and danger areas
 
-### 效率提升
-- 节省90%以上的手工操作时间
-- 支持同时处理数百个用户
-- 减少人工错误和遗漏
+## 📥 Installation
 
-## 📱 界面特性
+1. Visit [crazy-cattle-3d.com](https://crazy-cattle-3d.com)
+2. Click the "Download" button for your platform (Windows, Mac, or Linux)
+3. Run the installer and follow the on-screen instructions
+4. Launch Crazy Cattle 3D and start playing!
 
-### 响应式设计
-- 支持桌面端和移动端访问
-- 自适应不同屏幕尺寸
-- 现代化的用户界面
+## 🔄 Version History
 
-### 用户体验
-- 直观的操作流程
-- 实时的状态反馈
-- 友好的错误提示
+### v1.2.0 (Latest)
+- Added New Zealand environment
+- Improved physics calculations
+- New special moves
+- Bug fixes and performance improvements
 
-## 🔧 配置选项
+### v1.1.0
+- Added Iceland environment
+- Mobile controls optimization
+- Fixed collision detection issues
 
-### 扫描设置
-- 自定义起始页和结束页
-- 灵活的页面范围控制
-- 支持大批量数据处理
+### v1.0.0
+- Initial release with Ireland environment
+- Basic movement and collision mechanics
 
-### 延迟控制
-- 可配置的请求间隔
-- 智能的服务器保护
-- 稳定的运行环境
+## 🎬 Media
 
-## 📊 统计功能
+Check out Crazy Cattle 3D gameplay videos on our YouTube Channel
 
-### 实时统计
-- 总扫描用户数量
-- 注销用户统计
-- 激活成功数量
-- 当前处理页面
+## 🔗 Links
 
-### 结果分析
-- 激活成功率统计
-- 用户状态分布
-- 操作时间记录
+- **PAY NOW**: [crazy-cattle-3d.com](https://crazy-cattle-3d.com)
+- **Tiktok**: [@CrazyCattle3D](https://www.tiktok.com/@crazy.cattle.3d?_t=ZT-8vZbWTK7sYk&_r=1)
+- **Discord**: Join our community
 
 
-
-
-
-**172号卡激活系统** - 让代理管理更简单，让业务发展更专注
